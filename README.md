@@ -11,6 +11,6 @@
 ## 🛠️ 使用できる技術・ツール
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,pr,ae,github,notion,AWS,discode,php,wordpress" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,github,aws,discord,figma,pr,ae,notion,word,excel,powerpoint" />
 </p>
 
