@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**3inlroo/3inlroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 こんにちは！Hi there!
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRjCLFzcasrR4ia7z/giphy.gif" width="200" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Web制作やデザインに挑戦しています！
+- 🌱 HTML / CSS / JavaScript を勉強中！
+- 🎨 Figma・Premiere Pro・After Effects も活用しています！
+- 🌟 My page: ＠＠＠
+- 📫 How to reach me: ＠＠＠
+
+
+## 🛠️ 使用できる技術・ツール
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,pr,ae,github,notion,wordpress" />
+</p>
+
