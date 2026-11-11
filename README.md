@@ -1,13 +1,9 @@
 
 # 👋 こんにちは！Hi there!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRjCLFzcasrR4ia7z/giphy.gif" width="200" />
-</p>
-
 - 🧑‍💻 Web制作やデザインに挑戦しています！
-- 🌱 HTML / CSS / JavaScript を勉強中！
-- 🎨 Figma・Premiere Pro・After Effects も活用しています！
+- 🌱 学校を卒業後もちょくちょく触れて学んでいます！
+- 🎨 Figma・Premiere Pro・After Effects・Notion等を活用しています！
 - 🌟 My page: ＠＠＠
 - 📫 How to reach me: ＠＠＠
 
